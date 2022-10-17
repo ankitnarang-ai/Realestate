@@ -1,0 +1,9 @@
+body{
+    background-image: url("house.jpg");
+    background-repeat: no-repeat;
+    background-size: 1000px 500px;
+}
+#gif{
+    margin-left: 1000px;
+
+}
